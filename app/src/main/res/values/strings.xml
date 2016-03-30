@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="pick_me">Pick me!</string>
+</resources>
